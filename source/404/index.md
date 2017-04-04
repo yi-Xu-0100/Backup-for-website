@@ -4,6 +4,7 @@ toc: false
 comments: false
 permalink: /404
 fancybox: false
+donate: false
 ---
 <style type="text/css">
       	.article-header {
