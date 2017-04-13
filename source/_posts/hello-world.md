@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2017年3月24日09:17:43
+date: 2017-3-21 09:17:43
 categories: 其他分享
 tags: hexo
 ---
