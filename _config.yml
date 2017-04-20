@@ -14,7 +14,7 @@ language: zh-Hans
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.yixuju.cn
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year-:month-:day/:title/
 permalink_defaults:
 
 # Directory
@@ -42,6 +42,10 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
+markdown:
+    render:
+        html: true
+
 
 # Category & Tag
 default_category: uncategorized
@@ -85,5 +89,5 @@ theme: Yelee
 deploy:
   type: git
   repo:
-    github: https://github.com/yi-Xu-0100/yi-Xu-0100.github.io.git,master
     coding: https://git.coding.net/yi-Xu-0100/yi-Xu-0100.git,master
+    github: https://github.com/yi-Xu-0100/yi-Xu-0100.github.io.git,master

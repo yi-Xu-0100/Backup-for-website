@@ -1,7 +1,7 @@
 ---
 title: 弯月和薄雾
+date: 2017-04-02 
 categories: 生活感悟
-date: 2017-04-02 13:00:12
 tags: blog
 ---
 <Excerpt in index | 首页摘要>
